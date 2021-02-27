@@ -18,5 +18,4 @@ public class HelloWorldMessage implements Serializable {
     private UUID id;
     private String message;
 
-
 }
